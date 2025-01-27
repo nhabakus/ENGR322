@@ -17,7 +17,7 @@
 
 `code`
 ---
-[LinkedIn, Connect with me!](https://www.linkedin.com/in/nicholas-habakus-9a836aa7/) <br/>
+[Here is my LinkedIn, Connect with me!](https://www.linkedin.com/in/nicholas-habakus-9a836aa7/) <br/>
 
 
 ![Here's an image of my favorite sports card](tombrady.jpg)
