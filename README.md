@@ -18,4 +18,4 @@
 `code`
 ---
 [LinkedIn, Connect with me!](https://www.linkedin.com/in/nicholas-habakus-9a836aa7/) 
-![Here's an image of my favorite sports card](
+![Here's an image of my favorite sports card](tombrady.jpg)
