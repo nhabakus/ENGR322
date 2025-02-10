@@ -16,7 +16,7 @@
 - TCG/Sports Card Collecting
 
 [Assignment 1 Link](https://sites.google.com/stevens.edu/cpe-322-project-team-site/home)  <br/>
-`code`
+`print('Hello World')`
 ---
 [Here is my LinkedIn, Connect with me!](https://www.linkedin.com/in/nicholas-habakus-9a836aa7/) <br/>
 
