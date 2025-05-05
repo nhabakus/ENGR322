@@ -12,4 +12,13 @@ Half Adder Code
 ```
 ![Half Adder](halfadder.PNG)
 
+DFF Code
+```
+ ghdl -a dff.vhdl
+ ghdl -a dff_tb.vhdl
+ ghdl -e dff_tb
+ ghdl -r dff_tb --vcd=dff.vcd
+ gtkwave dff.vcd
+```
+
 ![DFF](dff.PNG)
