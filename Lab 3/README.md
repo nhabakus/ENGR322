@@ -18,7 +18,7 @@ python datetime_example.py
 
 `python sun.py "New York"`
 
-![NY](Newyork.PNG)
+![NewYork](Newyork.PNG)
 
 `python moon.py`
 
